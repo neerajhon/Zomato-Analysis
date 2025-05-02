@@ -1,6 +1,6 @@
 # 🍽️ Zomato Restaurant(Bengaluru) Data Analysis with Power BI
 
-<img src="demo.gif" alt="Zomato Power BI Dashboard" style="width:100%;"/>
+<img src="screenshots/demo.gif" alt="Zomato Power BI Dashboard" style="width:100%;"/>
 
 
 This project presents an end-to-end data analysis of Zomato restaurant data using **Python for data cleaning** and **Power BI for visualization**. It uncovers key patterns in restaurant pricing, customer preferences, ratings, and locations — offering actionable insights for strategic decision-making in the food and restaurant industry.
