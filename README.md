@@ -1,6 +1,6 @@
 # 🍽️ Zomato Restaurant(Bengaluru) Data Analysis with Power BI
 
-[Live Project](https://app.powerbi.com/links/maFztDkvIv?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare) <!-- Replace with your project banner image if available -->
+[Live Project](https://app.powerbi.com/links/g-FgthDz8M?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare) <!-- Replace with your project banner image if available -->
 
 
 <img src="screenshots/demo.gif" alt="Zomato Power BI Dashboard" style="width:100%;"/>
